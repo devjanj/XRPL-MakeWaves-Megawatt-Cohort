@@ -7,3 +7,7 @@ Token issuance (`JAN`):
 - TrustSet: https://testnet.xrpl.org/transactions/2ACC934AFA39DE222B185B39F17D8BA677679F63DBFF7787F8EAC9F3EEEB9156
 - Payment: https://testnet.xrpl.org/transactions/4E061D1F689FF3C66728D3C70222EA18FB1F8DE082C6C1A0D83FE4E027C72A61
 - Issuer: https://testnet.xrpl.org/accounts/rwJST2PvDC4p8cvV6dZuUeBTNMy2ZfTX1W
+
+AMM (`MWM`/XRP, issuer as LP):
+- AMMCreate: https://testnet.xrpl.org/transactions/A4382F33B8641896DBD9D02F6AADAF6BFAA8AC01EF9AF473DCEE47675A11AEAB
+- Pool: https://testnet.xrpl.org/accounts/rpwM58hjhipS7y8exVTaDoWYoXkw7dZ2vP
