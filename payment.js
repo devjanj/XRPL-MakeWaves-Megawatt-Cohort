@@ -15,6 +15,7 @@ async function main() {
     Account: sender.address,
     Amount: xrpl.xrpToDrops('1'),
     Destination: recipient.address,
+    SourceTag: 2606190003,
   })
   const signed = sender.sign(prepared)
   const result = await client.submitAndWait(signed.tx_blob)

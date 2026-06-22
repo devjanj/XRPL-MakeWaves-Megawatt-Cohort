@@ -15,6 +15,7 @@ async function main() {
       TransactionType: 'AccountSet',
       Account: issuer.address,
       SetFlag: xrpl.AccountSetAsfFlags.asfDefaultRipple,
+      SourceTag: 2606190003,
     },
     { wallet: issuer },
   )

@@ -40,6 +40,7 @@ async function main() {
         issuer: issuer.address,
         value: '500',
       },
+      SourceTag: 2606190003,
     },
     { wallet: issuer },
   )
