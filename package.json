@@ -1,0 +1,23 @@
+{
+  "name": "xrpl-makewaves-megawatt-cohort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjanj/XRPL-MakeWaves-Megawatt-Cohort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devjanj/XRPL-MakeWaves-Megawatt-Cohort/issues"
+  },
+  "homepage": "https://github.com/devjanj/XRPL-MakeWaves-Megawatt-Cohort#readme",
+  "dependencies": {
+    "xrpl": "^5.0.0"
+  }
+}
