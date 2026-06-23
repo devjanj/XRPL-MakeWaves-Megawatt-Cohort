@@ -11,3 +11,7 @@ Token issuance (`JAN`):
 AMM (`MWM`/XRP, issuer as LP):
 - AMMCreate: https://testnet.xrpl.org/transactions/A4382F33B8641896DBD9D02F6AADAF6BFAA8AC01EF9AF473DCEE47675A11AEAB
 - Pool: https://testnet.xrpl.org/accounts/rpwM58hjhipS7y8exVTaDoWYoXkw7dZ2vP
+
+NFT lifecycle (mint → burn):
+- Mint: https://testnet.xrpl.org/transactions/4463C6908DB3E5AEBC0023AAA503578419B7D59BC422A10D60D94724ADA9BD1D
+- Burn: https://testnet.xrpl.org/transactions/DD8628F035D9EA7BDE213175E8056555EB96A338428560879A015CC022AEB512
